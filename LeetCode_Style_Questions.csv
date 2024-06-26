@@ -1,0 +1,14 @@
+Module,Question,Difficulty,Description
+Introduction to Algorithms,Implement a function to find the maximum subarray sum using Kadane's algorithm.,Medium,"Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum."
+Stable Matching and the Gale-Shapley Algorithm,Implement the Gale-Shapley algorithm for the stable marriage problem.,Medium,"Given two sets of equal size with preferences, find a stable matching between the sets."
+Sorting and Caching,Implement QuickSort algorithm.,Easy,"Given an array of integers, sort the array using the QuickSort algorithm."
+Algorithm Analysis,Analyze the time complexity of MergeSort.,Easy,Write a function that returns the time complexity of the MergeSort algorithm given an array of integers.
+Graphs and Graph Search Algorithms,Implement Depth First Search (DFS) on a graph.,Medium,"Given a graph, implement DFS and return the traversal of the nodes."
+Greedy Algorithms,Implement the Huffman Coding algorithm for data compression.,Hard,"Given a string, implement Huffman Coding to compress the string."
+Divide and Conquer Strategies,Implement the Karatsuba algorithm for fast multiplication.,Hard,"Given two large numbers, implement the Karatsuba algorithm to multiply them efficiently."
+Dynamic Programming,Implement the Longest Increasing Subsequence algorithm.,Medium,"Given an integer array, find the length of the longest increasing subsequence."
+Network Flow,Implement the Ford-Fulkerson algorithm to find the maximum flow in a flow network.,Hard,"Given a graph representing a flow network, implement the Ford-Fulkerson algorithm to find the maximum flow."
+Intractability,Prove that the subset sum problem is NP-complete.,Hard,"Given a set of integers, prove that determining if there is a subset with a sum equal to a given number is NP-complete."
+Bayes’ Rule,Implement a Bayesian network for a simple medical diagnosis problem.,Medium,"Given a set of symptoms and diseases, implement a Bayesian network to diagnose diseases based on symptoms."
+Approximation Algorithms,Implement a 2-approximation algorithm for the vertex cover problem.,Medium,"Given a graph, implement a 2-approximation algorithm to find a vertex cover."
+Randomized Algorithms,Implement Randomized QuickSort.,Medium,"Given an array of integers, implement the Randomized QuickSort algorithm to sort the array."
